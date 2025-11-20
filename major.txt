@@ -1,0 +1,763 @@
+Petroleum Engineering
+Operations Research & Industrial Engineering
+Electrical Engineering & Computer Science (EECS)
+Interaction Design
+Building Science
+Applied Economics and Management
+Actuarial Mathematics
+Optical Science & Engineering
+Quantitative Economics
+Operations Research
+Systems Engineering
+Information & Computer Science
+Public Accounting
+Cognitive Science
+Aeronautics & Astronautics
+Aerospace Studies
+Pharmacy
+Managerial Economics
+Foreign Affairs
+Political Economy
+Chemical Engineering
+Marine Transportation Management
+Computer Science (CS) & Engineering
+Corporate Accounting & Finance
+Computer Engineering (CE)
+Electrical Power Engineering
+Marine Engineering
+Electrical & Computer Engineering (ECE)
+Econometrics
+Actuarial Science
+Astronomy
+Mechatronics
+Computational & Applied Mathematics
+Construction Engineering Management
+Aeronautical Engineering
+Electrical Engineering (EE)
+Naval Architecture & Marine Engineering
+Instrumentation & Control Engineering
+Ocean Engineering (OE)
+Electrical & Electronics Engineering (EEE)
+Quantitative Business Analysis
+Computer Science (CS) & Mathematics
+Engineering Physics
+Bioscience
+Computer Science (CS)
+Jazz Studies
+Aeronautical/Aerospace Engineering Technology
+Bioengineering (BioE)
+Management Science
+Aerospace Engineering
+Information Management
+Metallurgical Engineering
+Applied Mathematics
+Operations Management & Information Systems
+Chemical & Biomolecular Engineering
+Mechanical & Aeronautical Engineering
+Materials Science
+Engineering
+Energy Management
+Industrial & Systems Engineering
+Materials Science & Engineering
+Biomedical Engineering (BME)
+Welding Engineering
+Mining Engineering
+Engineering Science
+Industrial Hygiene
+Nuclear Engineering
+Paper Science
+Industrial Engineering (IE)
+Robotics & Automation
+Physics
+Integrated Science & Technology
+Business Analysis
+Business & Economics
+Economics and Mathematics
+Software Engineering
+Computer & Information Science
+Global & International Studies
+Entrepreneurship & Marketing
+International Economics
+Materials Engineering
+Economics
+Environmental Health & Safety Management
+Interactive Media Design
+Mechanical Engineering (ME)
+Packaging Science
+Management Information Systems (MIS)
+Ceramic Engineering
+Structural Engineering (SE)
+Telecommunications Engineering
+Construction Project Management
+Finance & Real Estate
+Electronics Engineering
+Automotive Engineering
+Plastics Engineering
+Mathematics & Statistics
+Information & Decision Sciences
+Mechanical
+Applied Physics
+Building Construction (BC)
+Accounting & Economics
+Psychobiology
+Astrophysics
+Financial Economics
+International Business & Finance
+Computing & Information Systems (CIS)
+Asian Studies
+Government
+Nuclear Engineering Technology (NET)
+Finance & Economics
+Marketing & International Business
+Biochemistry & Molecular Biology
+Information Systems Management
+Business Information Systems
+Mathematics
+Information Security & Assurance
+Civil Engineering (CE)
+Construction Management
+Polymer Science & Engineering
+International Management
+Applied Economics
+Construction Science
+Economics & Political Science
+Political Communication
+Aeronautical Science
+Control Engineering
+Russian Studies
+Business Economics
+Civil & Environmental Engineering
+Business Computer Information Systems (BCIS)
+Cybersecurity
+Engineering Management
+Information Systems (IS)
+Manufacturing Engineering
+Real Estate
+Building Construction Management
+Plastics Engineering Technology
+International Marketing
+Aviation
+Biosystems Engineering
+Data Processing
+Food Marketing
+Computer Science & Information Technology
+Agricultural Economics
+Management & Finance
+Strategic Management
+Computer Management Information Systems (CMIS)
+Organic Chemistry
+Finance
+Financial Planning
+Web Development
+European Studies
+Construction Engineering
+International Relations
+Molecular Biology
+International Business
+Computer Information Systems (CIS)
+Information Security
+Japanese Language
+East Asian Studies
+Economics & Management
+European History
+Agricultural Engineering (AE)
+Architectural Engineering
+Entrepreneurship & Leadership
+Computing
+Information Technology Management
+Electrical Engineering Technology (EET)
+Chinese Language
+Business Finance
+Sales & Business Marketing
+Safety Science
+Corporate Finance
+Industrial Distribution
+Computer Engineering Technology (CET)
+Dairy Science
+Japanese Studies
+Network Engineering
+Environmental Engineering
+Accounting & Taxation
+Robotics
+Biotechnology
+Accounting & Finance
+Mechanical Engineering Technology (MET)
+Operations Management (OM)
+Food Science & Technology
+Agricultural Economics & Business
+Biochemistry (BCH)
+Computer Networking Systems
+Product Design
+Mechanical Design
+Labor Relations
+Information Assurance
+Business Operations
+Environmental Policy Analysis & Planning
+Information Technology (IT)
+International Development Studies
+Rhetoric
+Aviation Management
+Consumer Economics
+Electromechanical Engineering
+Informatics
+Computer Security
+Software Applications & Programming
+Business & Marketing
+Social Ecology
+Accounting & Auditing
+Database Management
+Industrial Management
+Politics
+Business Technology Management
+Construction Science & Management
+Political Science/Public Law
+Government & International Politics (GVIP)
+Aviation Flight Science (AFL)
+Engineering Technology (ET)
+Information Technology (IT) & Systems
+Telecommunications Management
+Agribusiness
+Occupational Health and Safety
+Physical Therapy
+Industrial Safety
+Music Production & Engineering
+Business & Finance
+Civil Engineering Technology (CET)
+Chemistry
+French Literature
+Operations & Supply Chain Management
+Computer Information Systems
+Marketing
+Finance & Banking
+Computer Programming
+Marketing & Management
+Supply Chain Management
+Technical Communication
+Cell Biology
+Networks & Telecommunications
+Electronics Engineering Technology (EET)
+Biopsychology
+Applied Networking & Systems Administration
+Geological Engineering
+Business Management & Marketing
+Spanish Literature
+Real Estate Development
+Electronics & Computer Technology
+Industrial Technology (IT)
+Accounts
+Construction Technology
+Risk Management
+Industrial Engineering Technology
+Genetics
+Government & Politics
+Microbiology & Immunology
+Digital Design
+Hotel Management
+Italian Language
+Safety Management
+Environmental Health & Safety
+Marketing Communication
+Political Science
+Welding Engineering Technology
+Industrial Psychology
+Pharmaceutical Sciences (PS)
+Marketing & Communications
+Network Security
+Industrial Design (ID)
+Sales & Marketing
+Environmental Science & Policy
+Organizational Behavior
+Business Data Analysis
+Physics & Astronomy
+Philosophy
+Accounting
+German Language
+Comparative Literature
+Architecture
+Advertising Design
+Accounting & Computer Systems
+Financial Accounting
+Risk Management & Insurance
+Urban Planning
+Accounting & Management
+Cell & Molecular Biology
+Manufacturing Management
+Computer & Network Administration
+Occupational Therapy (OT)
+Manufacturing Engineering Technology
+Advertising
+Project Management
+Organizational Psychology
+Insurance
+Labor Studies
+Applied Computer Science
+Geology
+Marketing Management
+Design
+Radiation Therapy
+Strategic Communication
+Transportation & Logistics Management
+Electronic Systems Technology (EST)
+Latin American Studies
+Agronomy
+Environmental Health
+Applied Technology
+Accounting Information Systems
+Crop Science
+Microbiology
+Speech & Drama
+Entrepreneurship
+Corporate Communications
+Environmental Design
+Advertising & Marketing Communications
+Digital Media Design
+Hotel Administration
+Math & Science
+Aeronautics
+International Studies
+Urban & Regional Planning
+Computer Graphics Technology (CGT)
+Food Science
+Global Business Management
+Police Science
+Product Design Engineering
+Anthropology & English
+Construction Engineering Technology
+Sociology & Organizational Studies
+Management & Organization
+Logistics
+Information Systems Security
+International Affairs
+Biological Sciences
+Personal Financial Planning
+Environmental Science
+Theatre & Drama Studies
+Cinema Studies
+Land Surveying
+Business Communication
+German Studies
+New Media Design
+International Trade & Business
+Technology
+Textile & Apparel Studies
+Advertising & Promotion
+City & Regional Planning
+Advertising & Marketing
+Aviation Maintenance Technology
+English Literature
+Urban Studies
+Agricultural Science
+Management
+History & Politics
+Human Biology
+Automotive Technology
+Fashion Design
+Magazine Journalism
+Textile Technology
+American History (United States)
+Architectural Technology
+Organizational Development
+Business Administration
+Interior Architecture
+Journalism & Mass Communication
+Business Administration & Accounting
+Environmental & Natural Resource Economics
+Neuroscience
+Business Management
+Computer Aided Drafting & Design (CADD)
+Drama
+Bachelor in Science Nursing
+Linguistics
+Communication
+Nursing Science
+Writing
+French Language
+Integrated Marketing Communications
+Architectural Design
+Logistics Management
+Natural Sciences
+Public Affairs
+Journalism
+Technical Management
+General Science
+French Studies
+Marketing & Mass Communications
+Biology & Chemistry
+Digital Media
+Professional & Technical Writing
+Public Relations & Communication
+Textile Design
+Finance & Marketing
+Law
+Nursing
+Organizational Communication
+Architectural Studies
+Global Business
+Hydrology
+Literature
+Agriculture
+Physiology
+Music Technology
+Pre-Medicine
+Web & Digital Media Development
+General Business
+Public Relations (PR)
+History & Political Science
+Administration of Justice
+Biology
+Web Design & Development
+Personnel Management
+Computer Animation
+Quality Management
+Retail & Consumer Science
+Environmental Management
+History
+Environmental Biology
+Media Studies
+Apparel & Textile Manufacture
+Philosophy & Religion
+Publishing
+Environmental Geography
+Communication Studies & Journalism
+Environmental Studies
+Health Management
+Architectural Engineering Technology
+Agribusiness Management
+Interpersonal Communications
+Retail Merchandising
+Diagnostic Medical Sonography
+Fashion
+Network Administration
+General & Strategic Management
+Accounting & Business
+Dental Hygiene
+Electronic & Computer Technology
+Journalism & Electronic Media
+Geographic Information Systems (GIS)
+Toxicology
+Atmospheric Science
+Retailing
+Speech Communication
+Visual Effects & Motion Graphics
+Ancient History
+Broadcast & Cinematic Arts
+Sports Management
+Bachelor of Science in Nursing
+Landscape Architecture
+Professional Studies
+Diagnostic Medical Ultrasound
+Entomology
+Foreign Languages
+Forestry
+Workforce Education & Development
+Leadership
+Geography
+Global Studies
+Media Arts
+Business Leadership
+English Language
+Agricultural Business
+American Sign Language Interpreting
+Computer Aided Design (CAD)
+Digital Arts
+Human Resources Management (HRM)
+Merchandising Management
+Music Performance
+Liberal Arts
+Public Administration
+Geosciences
+Retail Management
+Radio/Television & Film Production
+Fashion Merchandising
+Mass Communication
+Travel Industry Management
+Allied Health
+Electronic Media
+Organizational Leadership & Supervision
+Homeland Security
+Arts Management
+Spanish Language
+3D Animation
+Business Management & Administration
+Marine Biology
+Nuclear Medicine Technology
+Religious Studies
+English Language & Literature
+Information & Communication Technology
+Museum Studies
+Business Technology
+Radiologic Science
+Organizational Leadership
+Animation
+Art History
+Management & Leadership
+Meteorology
+Film Production
+Musicology
+Technical Writing
+Administrative Management
+Forestry Management
+Automotive Technology & Service Management
+Historic Preservation
+Multimedia
+Fashion Marketing & Management
+Organizational Management
+Apparel Merchandising
+Earth Science
+Ethnic Studies
+German Language & Literature
+Radiology
+Zoology
+Human Nutrition
+Agricultural Communication
+Audio Engineering
+Geomatics
+Broadcast Journalism
+Cytotechnology
+Marketing & Advertising
+Applied Management
+Social Studies
+Communication Design
+Romance Languages
+Sociology & Anthropology
+Creative Writing
+Human Resources (HR)
+Law Enforcement
+Criminal Justice Administration
+Marine Science
+Training and Development
+Advertising & Graphic Design
+Technical & Scientific Communication
+Natural Resources
+Radiologic Technology
+Sports Administration
+Broadcast Communication
+Cultural Anthropology
+Human Resources Development
+Human Relations
+Merchandising
+Environmental Health Science
+Communication Management
+Security Management
+Administration
+Adult Education & Training
+Health Care Management
+Medical Laboratory Technology
+Multimedia & Web Design
+Psychology
+Visual Communications
+Emergency Management
+Natural Resource Management
+Hotel & Restaurant Management
+Anthropology
+Diagnostic Medical Imaging
+Middle Eastern Studies
+Painting & Printmaking
+Criminology
+New Media
+Psychology & Social Behavior
+Art & Design
+Ecology
+Interior Design
+Multidisciplinary Studies
+Hospitality Management
+Music
+Health Sciences
+Sociology
+Physical Anthropology
+Cardiopulmonary Science
+Archaeology
+Life Sciences
+SocialStudies
+Communication Arts
+Health Information Management
+Kinesiology
+Clinical Laboratory Science
+Spanish Language Teacher Education
+Child Psychology
+Exercise Physiology
+Respiratory Care
+Art Therapy
+Medical Laboratory Science
+Secondary Education
+Theater
+Hospital Administration
+Practical Nursing
+Health
+Health Care Administration
+Mass Media
+Sustainability
+Radiography
+Media Communication
+Applied Behavior Analysis
+Biological Anthropology
+Hotel & Restaurant Tourism
+Respiratory Therapy
+Radio & Television
+Recreation Management
+Humanities
+Computer Art
+Communications Technology
+Psychiatry
+Commercial Photography
+Fashion Design & Marketing
+Interdisciplinary Studies (IS)
+Web Design
+Legal Studies
+Nutrition & Dietetics
+Plant Sciences
+Graphic Design
+Fine Arts
+Liberal Studies
+Modern Languages
+Religion
+Medical Technology
+Dietetics
+Health Administration
+Missions
+Applied Sociology
+Criminal Justice
+Ornamental Horticulture
+Physical Geography
+Landscape Management
+Ministry
+Public Health (PH)
+Speech-Language Pathology
+Drawing
+Health & Fitness
+Forensic Psychology
+Pastoral Studies
+Culture Studies
+Foods & Nutrition
+Women's Studies
+Forensic Accounting
+Animal Science
+Performing Arts
+Education
+African American & African Studies
+Hospitality & Tourism
+Modern Language Spanish
+Arts & Science
+Nutrition Science
+Speech Pathology & Audiology
+Media Production
+Small Business Management
+Painting
+Social Science Teacher Education
+Network Technology
+Psychology & Sociology
+Music Composition
+Video Production
+Dramatic Art
+Mortuary Science
+Technical Theatre
+Family & Consumer Science
+Radio Broadcasting
+Theology
+Health Studies
+Consumer Affairs
+Vocal Performance
+Art
+Behavioral Science
+Health Services Administration
+General Studies
+Photography
+Exercise & Sports Science
+Forensic Science
+History Teacher Education
+International Trade
+Restaurant & Food Service Management
+Health & Physical Education Teaching
+Justice Studies
+Tourism & Travel
+Culinary Arts
+Physical Education Teaching
+Physical Therapist Assistant Studies
+Graphic Arts
+Interior Design & Merchandising
+Supervision & Management
+Event Management
+Health & Wellness
+Music Industry
+Clinical Psychology
+Recreation Administration
+Health & Exercise Science
+Physical Education & Exercise Science
+Recreation & Leisure Studies
+Ceramics
+Culinary Arts & Food Service Management
+Secondary English Teacher Education
+Family & Community Services
+Instrumental Music Teacher Education
+Health Services Management
+Exercise Science
+English Teacher Education
+Paralegal Studies
+Audio Production
+Community Health
+Photojournalism
+Fashion & Retail Management
+Dance
+Conservation Biology
+Parks & Recreation Management
+Deaf Studies
+Music Teacher Education
+Tourism Management
+Teaching English as a Second Language (ESL)
+Organizational Administration
+Wildlife Biology
+Educational Studies (ED)
+Elementary Special Education
+Horticulture
+Gender Studies
+Landscape Design
+Wildlife Management
+Community Development
+Emergency Medical Services (EMS)
+Biblical Studies & Practical Ministries
+Community Health Education
+Recording Arts
+Health Promotion
+Social Studies Teacher Education
+Athletic Training
+Pastoral Ministry
+Communication Sciences & Disorders
+Speech & Hearing
+Sculpture
+Church Ministries
+Biblical Studies
+Horticulture & Agronomy
+Bible Studies & Theology
+Human Development & Family Studies
+Family Studies
+Legal Assistant Studies
+Christian Ministry
+Health and Human Services
+Voice & Opera
+Home Economics
+Special Education
+Music Therapy
+Rehabilitation Services
+Developmental Psychology
+Youth Ministry
+Educational Psychology
+Community & Human Services
+Therapeutic Recreation
+Social Work (SW)
+Elementary Education
+Office Administration
+Christian Education
+Human Services (HS)
+Child Development
+Middle School Education
+Recreational Therapy
+Early Childhood & Elementary Education
+Outdoor Education
+Baking & Pastry Arts
+Child & Family Studies
+Mental Health
+Equine Studies
+Nonprofit Administration
+Addictions Counseling
+Early Childhood Education
+Metalsmithing

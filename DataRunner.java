@@ -1,18 +1,28 @@
+import java.io.IOException;
+import java.io.File;
 import java.util.Scanner;
-
+import java.util.Arrays;
 public class DataRunner {
     public static void main(String[] args) {
 
-        // creates analyzer object
-        SalaryAnalyzer analyzer = new SalaryAnalyzer();
+SalaryAnalyzer v = new SalaryAnalyzer();
+v.majorswithsalaries();
+System.out.println("\n");
+System.out.println("major with highest avergae pay: " +  v.majorwithhighestpay());
 
-        // prints each major
-        System.out.println("\n--- Majors ---");
-        for (int i = 0; i < analyzer.getNumMajors(); i++) {
-            System.out.println(analyzer.getMajorInfo(i));
-        }
+  
+}
 
-        // prints major with highest pay
-        System.out.println("\n" + analyzer.gethighestAveragePay());
-    }
+
+
+
+
+
+
+
+
+
+
+
+      
 }
